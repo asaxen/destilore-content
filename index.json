@@ -2,24 +2,19 @@
     "articles": [
         {
             "id": "1",
-            "title": "Test article 1",
+            "title": "ESP tutorial",
             "date": "2020-07-09",
             "author": "Adam Saxén",
-            "link": ""
+            "link": "articles/esp_basics/article.md",
+            "image": "media/esp/esp_basics.jpg"
         },
         {
             "id": "2",
-            "title": "Test article 2",
-            "date": "2020-06-09",
-            "author": "Adam Saxén",
-            "link": ""
-        },
-        {
-            "id": "3",
-            "title": "Test article 3",
+            "title": "Python tutorial",
             "date": "2020-07-10",
             "author": "Adam Saxén",
-            "link": ""
+            "link": "articles/python-basics/article.md",
+            "image": "media/logos/python-logo.png"
         }
     ]
 }
