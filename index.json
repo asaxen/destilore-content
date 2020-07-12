@@ -1,0 +1,25 @@
+{
+    "articles": [
+        {
+            "id": "1",
+            "title": "Test article 1",
+            "date": "2020-07-09",
+            "author": "Adam Saxén",
+            "link": ""
+        },
+        {
+            "id": "2",
+            "title": "Test article 2",
+            "date": "2020-06-09",
+            "author": "Adam Saxén",
+            "link": ""
+        },
+        {
+            "id": "3",
+            "title": "Test article 3",
+            "date": "2020-07-10",
+            "author": "Adam Saxén",
+            "link": ""
+        }
+    ]
+}
