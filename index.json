@@ -23,6 +23,14 @@
             "author": "Adam Saxén",
             "link": "articles/graph-tech/article.md",
             "image": "media/graphs/graph1.png"
+        },
+        {
+            "id": "4",
+            "title": "Quaternions",
+            "date": "2020-07-12",
+            "author": "Adam",
+            "link": "articles/quaternions/article.md",
+            "image": "media/math/quaternion.png"
         }
     ]
 }
