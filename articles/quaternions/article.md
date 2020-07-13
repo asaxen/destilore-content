@@ -1,7 +1,7 @@
 # Quaternions
 Quaternions are awesome! They can be used to do 3D rotations!!!! wow.
 
-![alt text](../../media/math/quaternion.png "Quaternion")
+![alt text](../../media/math/quaternions.png "Quaternion")
 
 ## Code
 ```py
