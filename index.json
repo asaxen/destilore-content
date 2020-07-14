@@ -32,5 +32,13 @@
             "link": "articles/quaternions/article.md",
             "image": "media/math/quaternions.png"
         }
+        {
+            "id": "5",
+            "title": "Benny test",
+            "date": "2020-07-12",
+            "author": "benny",
+            "link": "articles/quaternions/article2.md",
+            "image": "media/math/quaternions.png"
+        }
     ]
 }
