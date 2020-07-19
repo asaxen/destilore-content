@@ -1,44 +1,16 @@
 {
-    "articles": [
-        {
-            "id": "1",
-            "title": "ESP tutorial",
-            "date": "2020-07-09",
-            "author": "Adam Saxén",
-            "link": "articles/esp-basics/article.md",
-            "image": "media/esp/esp_basics.jpg"
-        },
-        {
-            "id": "2",
-            "title": "Python tutorial",
-            "date": "2020-07-10",
-            "author": "Adam Saxén",
-            "link": "articles/python-basics/article.md",
-            "image": "media/logos/python-logo.png"
-        },
-        {
-            "id": "3",
-            "title": "RDF Graphs with JS",
-            "date": "2020-07-12",
-            "author": "Adam Saxén",
-            "link": "articles/graph-tech/article.md",
-            "image": "media/graphs/graph1.png"
-        },
-        {
-            "id": "4",
-            "title": "Quaternions",
-            "date": "2020-07-12",
-            "author": "Adam",
-            "link": "articles/quaternions/article.md",
-            "image": "media/math/quaternions.png"
-        },
-        {
-            "id": "5",
-            "title": "Benny test",
-            "date": "2020-07-12",
-            "author": "benny",
-            "link": "articles/quaternions/article2.md",
-            "image": "media/math/quaternions.png"
-        }
-    ]
+    "1": {
+        "title": "ESP tutorial",
+        "date": "2020-07-09",
+        "author": "Adam Saxén",
+        "link": "articles/esp-basics/article.md",
+        "image": "media/esp/esp_basics.jpg"
+    },
+    "2": {
+        "title": "Python tutorial",
+        "date": "2020-07-10",
+        "author": "Adam Saxén",
+        "link": "articles/python-basics/article.md",
+        "image": "media/logos/python-logo.png"
+    }
 }
