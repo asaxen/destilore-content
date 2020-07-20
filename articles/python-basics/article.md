@@ -1,7 +1,7 @@
 # Python basics
 This tutorial is about setting up Esp8266 with platformio
 
-![alt text](../../media/logos/python-logo.png "Python")
+<img src="../../media/logos/python-logo.png" alt="drawing" width="200"/>
 
 ## Code
 ```py
