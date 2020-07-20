@@ -17,7 +17,7 @@ You will need:
 
 ## Code
 
-```c++
+```c
 #include <Arduino.h>
 
 void setup()
