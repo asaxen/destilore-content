@@ -1,16 +1,9 @@
 {
     "1": {
-        "title": "ESP tutorial",
-        "date": "2020-07-09",
+        "title": "Defining executables and arguments for docker images",
+        "date": "2020-08-10",
         "author": "Adam Saxén",
-        "link": "articles/esp-basics/article.md",
-        "image": "media/esp/esp_basics.jpg"
-    },
-    "2": {
-        "title": "Python tutorial",
-        "date": "2020-07-10",
-        "author": "Adam Saxén",
-        "link": "articles/python-basics/article.md",
-        "image": "media/logos/python-logo.png"
+        "link": "articles/docker/docker_exec_arguments.md",
+        "image": "media/logos/docker.png"
     }
 }
