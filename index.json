@@ -5,5 +5,12 @@
         "author": "Adam Saxén",
         "link": "articles/docker/docker_exec_arguments.md",
         "image": "media/logos/docker.png"
+    },
+    "2": {
+      "title": "Running docker containers with access to Nvidia GPUs",
+      "date": "2020-10-06",
+      "author": "Adam Saxén",
+      "link": "articles/docker/docker_nvidia_cuda.md",
+      "image": "media/docker-nvidia.png"
     }
 }
