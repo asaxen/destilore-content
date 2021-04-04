@@ -12,5 +12,19 @@
       "author": "Adam Saxén",
       "link": "articles/docker/docker_nvidia_cuda.md",
       "image": "media/docker-nvidia.png"
+    },
+    "3": {
+      "title": "Ethereum basics",
+      "date": "2021-04-04",
+      "author": "Adam Saxén",
+      "link": "articles/blockchain/basics.md",
+      "image": "media/blockchain/blockchain_pow.png"
+    },
+    "4": {
+      "title": "Quick reference - Linux / Unix Commands",
+      "date": "2021-04-04",
+      "author": "Adam Saxén",
+      "link": "articles/commands.md",
+      "image": "media/commands.png"
     }
 }
