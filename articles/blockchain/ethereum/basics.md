@@ -22,3 +22,6 @@ geth --rinkeby --syncmode "light" --datadir /mnt/db/geth_rinkeby --rpc --rpccors
 
 # Good links
 - [Web2 vs web3](https://ethereum.org/en/developers/docs/web2-vs-web3/)
+
+## Tutorials
+- [Basic ethereum smart contract. Environment + smart contract] (https://medium.com/compound-finance/setting-up-an-ethereum-development-environment-7c387664c5fe)un

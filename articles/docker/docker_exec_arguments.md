@@ -45,7 +45,6 @@ EXPOSE 80
 ENTRYPOINT ["nginx", "-g", "daemon off;"]
 ```
 
-
 ## Using ENTRYPOINT and CMD for dynamic arguments at runtime
 There are use cases where the docker should be limited to running one executable, but where different arguments can be supplied at runtime. Below is an example of a docker image that only will run nginx, with default arguments that can be overriden if required.
 

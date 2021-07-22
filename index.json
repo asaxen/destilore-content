@@ -26,5 +26,12 @@
       "author": "Adam Saxén",
       "link": "articles/commands.md",
       "image": "media/commands.png"
+    },
+    "5": {
+      "title": "Nginx basics",
+      "date": "2021-07-22",
+      "author": "Adam Saxén",
+      "link": "articles/nginx.md",
+      "image": "media/logos/nginx.png"
     }
 }
