@@ -45,5 +45,11 @@ netctl enable [profile_name]
 
 If RPI does not boot without hdmi attached:
 ```
-Add hdmi_force_hotplug=1 to /boot/config.txt
+# Add hdmi_force_hotplug=1 to /boot/config.txt
+```
+
+If RPI does not get DNS server
+```
+# Set DNSSEC=false in /etc/systemdb/resolved.conf
+systemctl restart systemd-resolved.service
 ```
